@@ -1,0 +1,23 @@
+{
+  "fileVersion": "1.1",
+  "contents": [
+    {
+      "url": "https://opendata.city.nisshin.lg.jp/dataset/55258578-39dc-4799-bc81-98a1f50eb0d0/resource/0356c666-d36e-4acd-8d93-0db1b9fe1f75/download/od79192021042200200.csv",
+      "name": "jinkou",
+      "catalogUrl": null,
+      "catalogResourceId": null,
+      "postProcesses": [
+        "encoding utf-8"
+      ],
+      "headers": {}
+    },
+    {
+      "url": "https://www.pref.ehime.jp/opendata-catalog/dataset/2262/resource/9169/7iryouinnR3.pdf",
+      "name": "iryouinn",
+      "catalogUrl": null,
+      "catalogResourceId": null,
+      "postProcesses": [],
+      "headers": {}
+    }
+  ]
+}
